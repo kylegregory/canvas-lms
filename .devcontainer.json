@@ -4,7 +4,7 @@
 		"./script/docker_dev_setup.sh"
 	],
 	"service": "web",
-	"workspaceFolder": "/usr/src/app",
+	"workspaceFolder": "/",
 	"customizations": {
 		"vscode": {
 			"extensions": [
