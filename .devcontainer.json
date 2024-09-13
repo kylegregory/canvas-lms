@@ -1,6 +1,8 @@
 {
 	"name": "canvas-lms",
-	"dockerComposeFile": [],
+	"dockerComposeFile": [
+		"./script/docker_dev_setup.sh"
+	],
 	"service": "web",
 	"workspaceFolder": "/usr/src/app",
 	"customizations": {
